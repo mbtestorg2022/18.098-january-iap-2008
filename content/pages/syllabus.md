@@ -37,24 +37,190 @@ Grading
 
 The course is graded P/D/F based on problem sets and class participation. I expect and hope to pass everyone, so learn, enjoy, and don't stress.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Three problem sets (30% each) | 90% |
-| Class participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three problem sets (30% each)
+{{< tdclose >}}
+{{< tdopen >}}
+90%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Dimensions | &nbsp; |
-| 2 | Extreme cases | Problem set 1 out |
-| 3 | Application: drag | &nbsp; |
-| 4 | More on drag | Problem set 1 due and problem set 2 out |
-| 5 | Discretization | &nbsp; |
-| 6 | Application: pendulum period | &nbsp; |
-| 7 | Picture proofs | Problem set 2 due and problem set 3 out |
-| 8 | Taking out the big part | &nbsp; |
-| 9 | Analogy | Problem set 3 due |
-| 10 | Application: operators | &nbsp; |
-| 11 | Application: singing logarithms |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Dimensions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Extreme cases
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Application: drag
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+More on drag
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due and problem set 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Discretization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Application: pendulum period
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Picture proofs
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due and problem set 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Taking out the big part
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Analogy
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Application: operators
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Application: singing logarithms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

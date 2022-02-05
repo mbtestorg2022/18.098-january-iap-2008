@@ -22,16 +22,171 @@ Title page and table of contents ([PDF]({{< baseurl >}}/resources/toc))
 
 References ([PDF]({{< baseurl >}}/resources/ref))
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Dimensions |  {{< br >}}{{< br >}} Chapter 1 - Dimensions, pp. 3-12 ([PDF]({{< baseurl >}}/resources/1)) {{< br >}}{{< br >}} Questions from lecture 1 ([PDF]({{< baseurl >}}/resources/1q)) {{< br >}}{{< br >}}  |
-| 2 | Extreme cases |  {{< br >}}{{< br >}} Chapter 2 - Extreme cases, pp. 13-26 ([PDF]({{< baseurl >}}/resources/2)) {{< br >}}{{< br >}} Questions and answers from lecture 2 ([PDF]({{< baseurl >}}/resources/2qa)) {{< br >}}{{< br >}}  |
-| 3 | Application: drag |  {{< br >}}{{< br >}} Chapter 2 - Extreme cases, pp. 26-30 ([PDF]({{< baseurl >}}/resources/2)) {{< br >}}{{< br >}} Questions from lecture 3 ([PDF]({{< baseurl >}}/resources/3q)) {{< br >}}{{< br >}}  |
-| 4 | More on drag | &nbsp; |
-| 5 | Discretization | Chapter 3 - Discretization, pp. 31-40 ([PDF]({{< baseurl >}}/resources/3)) |
-| 6 | Application: pendulum period | Chapter 3 - Discretization, pp. 41-44 ([PDF]({{< baseurl >}}/resources/3)) |
-| 7 | Picture proofs | Chapter 4 - Picture proofs, pp. 45-56 ([PDF]({{< baseurl >}}/resources/4)) |
-| 8 | Taking out the big part | Chapter 5 - Taking out the big part, pp. 57-79 ([PDF]({{< baseurl >}}/resources/5)) |
-| 9 | Analogy | Chapter 6 - Analogy, pp. 80-85 ([PDF]({{< baseurl >}}/resources/6)) |
-| 10 | Application: operators | Chapter 7 - Operators, pp. 86-90 ([PDF]({{< baseurl >}}/resources/7)) |
-| 11 | Application: singing logarithms | Handout - approximating logarithms using musical intervals ([PDF]({{< baseurl >}}/resources/logarithms))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Dimensions
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 1 - Dimensions, pp. 3-12 ([PDF]({{< baseurl >}}/resources/1))
+
+Questions from lecture 1 ([PDF]({{< baseurl >}}/resources/1q))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Extreme cases
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 2 - Extreme cases, pp. 13-26 ([PDF]({{< baseurl >}}/resources/2))
+
+Questions and answers from lecture 2 ([PDF]({{< baseurl >}}/resources/2qa))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Application: drag
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter 2 - Extreme cases, pp. 26-30 ([PDF]({{< baseurl >}}/resources/2))
+
+Questions from lecture 3 ([PDF]({{< baseurl >}}/resources/3q))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+More on drag
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Discretization
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3 - Discretization, pp. 31-40 ([PDF]({{< baseurl >}}/resources/3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Application: pendulum period
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3 - Discretization, pp. 41-44 ([PDF]({{< baseurl >}}/resources/3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Picture proofs
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4 - Picture proofs, pp. 45-56 ([PDF]({{< baseurl >}}/resources/4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Taking out the big part
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5 - Taking out the big part, pp. 57-79 ([PDF]({{< baseurl >}}/resources/5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Analogy
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6 - Analogy, pp. 80-85 ([PDF]({{< baseurl >}}/resources/6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Application: operators
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7 - Operators, pp. 86-90 ([PDF]({{< baseurl >}}/resources/7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Application: singing logarithms
+{{< tdclose >}}
+{{< tdopen >}}
+Handout - approximating logarithms using musical intervals ([PDF]({{< baseurl >}}/resources/logarithms))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
