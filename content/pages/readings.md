@@ -11,12 +11,12 @@ Published Textbook
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262514293) Mahajan, Sanjoy. [_Street-Fighting Mathematics: The Art of Educated Guessing and Opportunistic Problem Solving_](https://mitpress.mit.edu/9780262514293). Cambridge, MA: MIT Press, 2010. ISBN: 9780262514293.
 
-The book is available as a ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[free download (PDF)](https://www.dropbox.com/s/722rlvrwy9l9w73/7728.pdf?dl=0) from MIT Press.
+The book is available as a [free download (PDF)](https://www.dropbox.com/s/722rlvrwy9l9w73/7728.pdf?dl=0) from MIT Press.
 
 Textbook (Earlier Edition)
 --------------------------
 
-An earlier version of the textbook as one file may be found here: (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3 MB]({{< baseurl >}}/resources/mit18_098iap08_draft_text))
+An earlier version of the textbook as one file may be found here: ([PDF - 1.3 MB]({{< baseurl >}}/resources/mit18_098iap08_draft_text))
 
 Title page and table of contents ([PDF]({{< baseurl >}}/resources/toc))
 
